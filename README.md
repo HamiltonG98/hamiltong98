@@ -1,4 +1,4 @@
-<## Hey 👋, I'm Hamilton García!  
+## Hey 👋, I'm Hamilton García!  
   
 
 <a href="https://github.com/hamiltong98" target="_blank">
@@ -108,10 +108,3 @@ I'm a Mobile and Web developer who loves what I do, trying to learn and improve 
 ![Profile views counter](https://komarev.com/ghpvc/?username=hamiltong98&&style=flat-square)  
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
